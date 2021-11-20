@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 I'm a senior data scientist working in the energy industry
 - 🏠 Based in London, UK
-- 🏅 Kaggle Competitions Master ([datasaurus](https://www.kaggle.com/anjum48) 🦖)
+- 🏅 Kaggle Competitions Master in the global top 100 ([datasaurus](https://www.kaggle.com/anjum48) 🦖)
 - 🤖 Experience in forecasting, optimisation, anomaly detection, reinforcement learning, NLP and computer vision
 - 💫 My background is in physics
 - 🌱 I’m currently building some cool new things 🤫️ - watch this space!
