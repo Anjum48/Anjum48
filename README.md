@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🧑‍💻 I'm a senior data scientist working in the energy industry
+- 🧑‍💻 I'm a senior data scientist working for an F1 team 🏎️
 - 🏠 Based in London, UK
 - 🏅 Kaggle Competitions Grandmaster ([datasaurus](https://www.kaggle.com/anjum48) 🦖)
 - 🤖 Experience in forecasting, optimisation, anomaly detection, reinforcement learning, NLP and computer vision
